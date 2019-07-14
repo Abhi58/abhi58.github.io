@@ -1,0 +1,13 @@
+baseURL = "http://abhi58.github.io"
+languageCode = "en-us"
+title = "Abhi"
+theme = "hallo"
+
+[params]
+    [[params.links]]
+        icon = "github"
+        title = "Github"
+        url = "https://github.com/Abhi58"
+
+[Author]
+    name = "Abhijith Bharadwaj"
